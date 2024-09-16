@@ -15,5 +15,5 @@ fs.writeFileSync("input.txt", ans)
 //         ans = ans+arr[i];
 //     }
 // }
-
+    
 // console.log(ans)
